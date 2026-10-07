@@ -1,3 +1,4 @@
+```python
 def main():
     incomes = {}
     expenses = {}
